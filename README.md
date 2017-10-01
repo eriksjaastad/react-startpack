@@ -1,5 +1,5 @@
 # React-Startpack
-Bare minimum setup for a simple react app. Should save you a lot of time. You are very welcome!!
+Bare minimum setup for a simple React app. Should save you a lot of time. You are very welcome!!
 
 For a detailed description of how the startpack works head over to the link below:
 
